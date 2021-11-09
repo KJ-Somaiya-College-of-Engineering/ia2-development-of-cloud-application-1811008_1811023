@@ -13,10 +13,10 @@ To run the project:
 ```bash
 npm start
 ```
-Project wont start Frontend as it's configured for AWS and only backend services might start. TO use locally replace all the http links like: 
-http://Icinemaapp-env.eba-sa9jvi5c.ap-south-1.elasticbeanstalk.com:8082 
-to 
-localhost:<service-port>
+Project wont start Frontend as it's configured for AWS and only backend services might start. TO use locally replace all the http links like:<br>
+http://Icinemaapp-env.eba-sa9jvi5c.ap-south-1.elasticbeanstalk.com:8082
+to <br>
+localhost:<"service-port"> <br>
 And change the ports in server.js File as well.
  
 <h2> Built with  </h2>
